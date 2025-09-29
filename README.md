@@ -44,6 +44,9 @@ Vue 3 · Tailwind CSS · JavaScript (ES6) · Vite
    ```bash
    npm run dev
 
+4. Im Browser öffnen:  
+      👉 [http://localhost:5173/](http://localhost:5173/)
+
 ---
 
 ## 🖼️ Screenshots
