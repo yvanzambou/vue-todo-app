@@ -34,7 +34,7 @@ Vue 3 · Tailwind CSS · JavaScript (ES6) · Vite
 1. Repository klonen  
    ```bash
    git clone https://github.com/yvanzambou/vue-todo-app.git
-   cd todo-app-vue
+   cd vue-todo-app
 
 2. Dependencies installieren  
    ```bash
